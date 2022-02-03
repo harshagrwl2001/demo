@@ -1,0 +1,20 @@
+li{
+    list-style-type: none;
+}
+img[src="images/lap.jpeg"]{
+    height:1400px;
+    width:1400px;
+}
+
+ .footer{
+    background-color:black;
+    color:white;
+}
+.navbar>nav,ul{
+    display:flex;
+    justify-content: space-between;
+}
+.skills{
+    display: flex;
+    
+}
